@@ -1,0 +1,3 @@
+*.lock
+.idea
+Generated_Password.txt
