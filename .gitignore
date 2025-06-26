@@ -1,3 +1,5 @@
 *.lock
 .idea
 Generated_Password.txt
+*.sqlite
+*.db
